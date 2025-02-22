@@ -121,5 +121,6 @@ This analysis investigates the following metrics:
 3. **Customer Communication**: Improved notification systems for passengers affected by cancellations and diversions.
 
 ---
+### [Kaggle Dataset](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv) 
 
 This README provides an overview of the data analysis process, key metrics, and insights derived from the study. For a more detailed analysis, refer to the full report or the visualization dashboard in Tableau.
