@@ -1,7 +1,6 @@
-# Flight-Delay-Insights-Analysis-and-Prediction
-# Data and Business Analysis Report
+# Flight Delay Insights: Analysis and Prediction
+### Data and Business Analysis Report
 
-## Prepared by: Nishit Shah
 
 ## 1. Executive Summary
 
@@ -109,7 +108,7 @@ This analysis investigates the following metrics:
 | Alaska Airlines | 1.73% | 1025 | 59170 |
 
 ## 5. Insights and Recommendations
-### [Tableau Dashboard] (https://public.tableau.com/views/Airline_17395903157640/AirlineDelay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Tableau Dashboard](https://public.tableau.com/views/Airline_17395903157640/AirlineDelay?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Findings
 - **JetBlue Airways and Frontier Airlines** had the highest average departure delays.
